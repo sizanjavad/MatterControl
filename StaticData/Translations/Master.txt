@@ -1,38 +1,38 @@
 ﻿English:Connect
-Translated:Connect
+Translated:اتصال
 
 English:Disconnect
-Translated:Disconnect
+Translated:قطع اتصال
 
 English:Status
-Translated:Status
+Translated:وضعیت
 
 English:Connected
-Translated:Connected
+Translated:متصل شده
 
 English:Not Connected
-Translated:Not Connected
+Translated:قطع ارتباط
 
 English:Select Printer
-Translated:Select Printer
+Translated:انتخاب پرینتر
 
 English:Options
-Translated:Options
+Translated:گزینه ها
 
 English:Next Print
-Translated:Next Print
+Translated:چاپ بعدی
 
 English:Add
-Translated:Add
+Translated:اضافه سازی
 
 English:Add a file to be printed
-Translated:Add a file to be printed
+Translated:فایلی را برای پرینت اضافه کنید
 
 English:Start
-Translated:Start
+Translated:آغاز
 
 English:Begin printing the selected item.
-Translated:Begin printing the selected item.
+Translated:آغاز چاپ آیتم انتخاب شده
 
 English:Skip
 Translated:Skip
